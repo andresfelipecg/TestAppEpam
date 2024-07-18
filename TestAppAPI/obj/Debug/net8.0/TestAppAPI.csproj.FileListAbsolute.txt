@@ -108,3 +108,4 @@ C:\Users\andre\source\repos\TestAppEpam\TestAppAPI\obj\Debug\net8.0\TestAppAPI.p
 C:\Users\andre\source\repos\TestAppEpam\TestAppAPI\obj\Debug\net8.0\TestAppAPI.genruntimeconfig.cache
 C:\Users\andre\source\repos\TestAppEpam\TestAppAPI\obj\Debug\net8.0\ref\TestAppAPI.dll
 C:\Users\andre\source\repos\TestAppEpam\TestAppAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\andre\source\repos\TestAppEpam\TestAppAPI\obj\Debug\net8.0\TestAppAPI.sourcelink.json
